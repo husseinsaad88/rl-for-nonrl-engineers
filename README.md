@@ -1,10 +1,29 @@
-# RL for non-RL Engineers — Course Notebooks
+# Practical Reinforcement Learning Notebooks (REINFORCE, PPO, DQN, RLHF)
 
-This repository contains the Jupyter notebooks used in the course
-"RL for non-RL ML Engineers".
+This repository accompanies the course:
 
-The notebooks are designed for teaching and intuition, with simple
-step-by-step implementations of key reinforcement learning algorithms.
+**"RL for non-RL ML Engineers"**
+
+---
+
+## Overview
+
+Reinforcement Learning is one of the most powerful areas in machine learning,
+but also one of the hardest to learn.
+
+This repository provides **simple, step-by-step Jupyter notebooks**
+that implement key RL algorithms **from scratch**, with a focus on intuition
+and practical understanding.
+
+---
+
+## Who is this for?
+
+- Machine Learning engineers
+- Undergraduate and postgraduate students in ML/AI
+- Anyone who wants to understand RL through implementation
+
+---
 
 ## Included notebooks
 
@@ -14,11 +33,38 @@ step-by-step implementations of key reinforcement learning algorithms.
 - PPO
 - Q-Learning
 - DQN
-- RLHF
+- RLHF (DPO)
+
+---
+
+## Tools used
+
+- Python
+- PyTorch
+- OpenAI Gym
+
+---
+
+## How to use
+
+1. Clone the repository
+2. Open the notebooks
+3. Run cells step-by-step
+4. Modify and experiment
+
+---
+
+## Course vs Repository
+
+These notebooks are intentionally simple and designed for learning.
+
+For a more structured and modular implementation suitable for
+experimentation and research, see the main repository:
+
+👉 https://github.com/husseinsaad88/rl-algos-from-scratch
+
+---
 
 ## Note
 
-These notebooks are intentionally simple for educational purposes.
-
-A separate modular repository contains a cleaner and more scalable
-implementation for experimentation and research.
+These notebooks prioritize clarity over performance and are intended for educational purposes.
